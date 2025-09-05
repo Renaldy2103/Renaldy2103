@@ -5,4 +5,4 @@ Saya Mahasiswa Teknik Informatika.
 
 | No  | Tgl  | Praktikum ke  | Topik  | Laporan | Repository |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | 
-|  1 | 03-09-2025  | 01  | Pengenalan Mobile Programming dan Setup Lingkungan  | [Modul 01](https://docs.google.com/document/d/1hc-zGu5_wFhDwvi5c9Zpm9NocjgILgbRZd8zxK5yq20/edit?usp=sharing "Modul 01") | [Template laporan](https://github.com/Renaldy2103/PrakMobileM1 "Program") |
+|  1 | 03-09-2025  | 01  | Pengenalan Mobile Programming dan Setup Lingkungan  | [Modul 01](https://docs.google.com/document/d/1hc-zGu5_wFhDwvi5c9Zpm9NocjgILgbRZd8zxK5yq20/edit?usp=sharing "Modul 01") | [Program](https://github.com/Renaldy2103/PrakMobileM1 "Program") |
