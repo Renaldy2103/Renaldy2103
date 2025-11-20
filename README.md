@@ -18,3 +18,5 @@ Saya Mahasiswa Teknik Informatika.
 |  11 | 15-10-2025  | 07  | Manajemen State dengan GetX | [Modul 11](https://docs.google.com/document/d/1eLLPnXT8AEeXhv-8JAP6J6JhpmJczgZH8oQcfOW5WDc/edit?usp=sharing) | [Program](https://github.com/Renaldy2103/PrakMobileM11 "Program") |
 |  12 | 22-10-2025  | 08  | Ujian Tengah Semester | [UTS](https://docs.google.com/document/d/1WJGj1tsQveeRlwSzxNUehYYHOcjoVU5ZBsa_ZKlg7V8/edit?usp=sharing) | [Program](https://github.com/Renaldy2103/uts "Program") |
 |  13 | 29-10-2025  | 09  | Akses Lokasi dengan GPS di Flutter | [Modul 12](https://docs.google.com/document/d/1THQrN8ASRuC3TXD0nZYaRkYOr-d_V0MnTnweh4tjiW8/edit?usp=sharing) | [Program](https://github.com/Renaldy2103/PrakMobileM12 "Program") |
+|  14 | 12-11-2025  | 10  | Menampilkan Google Maps Lokasi dengan GPS di Flutter | ~ | [Program](https://github.com/Renaldy2103/PrakMobileM13 "Program") |
+|  15 | 19-11-2025  | 11  | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API | [Modul 14](https://docs.google.com/document/d/1E4IKUwcXZy3F408aZ2BdvAbILR9Qhbl2h1AnZapHnno/edit?usp=sharing) | [Program](https://github.com/Renaldy2103/PrakMobileM14 "Program") |
