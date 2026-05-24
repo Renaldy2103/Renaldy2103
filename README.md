@@ -1,22 +1,21 @@
-Hi 👋, I'm Moch Renaldy Syaputra. 
-Saya Mahasiswa Teknik Informatika.
+# 💫 About Me:
+Mahasiswa Teknik Informatika semester 6 dengan fokus riset pada Artificial Intelligence, Computer Vision, dan NLP. Memadukan kecerdasan buatan dengan pengembangan web modern.
 
-💻Saat ini saya sedang belajar pemrograman mobile:
 
-| No  | Tgl  | Praktikum ke  | Topik  | Laporan | Repository |
-| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | 
-|  1 | 03-09-2025  | 01  | Pengenalan Mobile Programming dan Setup Lingkungan  | [Modul 01](https://docs.google.com/document/d/1hc-zGu5_wFhDwvi5c9Zpm9NocjgILgbRZd8zxK5yq20/edit?usp=sharing "Modul 01") | [Program](https://github.com/Renaldy2103/PrakMobileM1 "Program") |
-|  2 | 03-09-2025  | 01  | Widget Row dan Column  | [Modul 02](https://docs.google.com/document/d/1450RRH4MY9rRszlU8xI-E4o0NKRDDN72MTBJCxMatIo/edit?usp=sharing "Modul 02") | [Program](https://github.com/Renaldy2103/PrakMobileM2 "Program") |
-|  3 | 10-09-2025  | 02  | Pengaturan Layout Row dan Column di Flutter  | [Modul 03](https://docs.google.com/document/d/1b_eIGSH6w-8Y8Hx2-bG_dhU3N9nQYKdnpZ6XSGDCtFU/edit?usp=sharing "Modul 03") | [Program](https://github.com/Renaldy2103/PrakMobileM3 "Program") |
-|  4 | 10-09-2025  | 02  | Widget Flexible dan Expanded  | [Modul 04](https://docs.google.com/document/d/1X3PZLIc-_fJ2GZijM3Wlu9hvtdSTF3tfAFUrrQDlC1w/edit?usp=sharing) | [Program](https://github.com/Renaldy2103/PrakMobileM4 "Program") |
-|  5 | 17-09-2025  | 03  | Widget SizedBox, Spacer, dan Card  | [Modul 05](https://docs.google.com/document/d/1hZiKBHGP9SNhoTuLeoUs2qlw_v0z8TF6gXhQWVAhtm4/edit?usp=sharing) | [Program](https://github.com/Renaldy2103/PrakMobileM5 "Program") |
-|  6 | 17-09-2025  | 03  | Widget Gridview, List View, GridView.Builder, Dan ListView.Builder  | [Modul 06](https://docs.google.com/document/d/1YzCq7HIluwdGs_BaGsGdOqL35F_rUVw1uk60HWftoOQ/edit?usp=sharing) | [Program](https://github.com/Renaldy2103/PrakMobileM6 "Program") |
-|  7 | 24-09-2025  | 04  | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route | [Modul 07](https://docs.google.com/document/d/1yrhSvYQg3EtoxeX9U0ou1JcM-idklggYNrm64ToMTqU/edit?usp=sharing) | [Program](https://github.com/Renaldy2103/PrakMobileM7 "Program") |
-|  8 | 24-09-2025  | 04  | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route | [Modul 08](https://docs.google.com/document/d/1sRmZtF7J05Qc9pAF9TH4H_FWFqO_ho2OJkEP8vhPUTA/edit?usp=sharing) | [Program](https://github.com/Renaldy2103/PrakMobileM8 "Program") |
-|  9 | 01-10-2025  | 05  | StatefulWidget | [Modul 09](https://docs.google.com/document/d/1zxpQjdhxRHi4mMGtOsxnuNEZbLvBljAAGqHTcnOSOSA/edit?usp=sharing) | [Program](https://github.com/Renaldy2103/PrakMobileM9 "Program") |
-|  10 | 08-10-2025  | 06  | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter | [Modul 10](https://docs.google.com/document/d/1ax1U-fOjHEMUy92vbkdIpMXNNKR-hvJYec8172N8L2U/edit?usp=sharing) | [Program](https://github.com/Renaldy2103/PrakMobileM10 "Program") |
-|  11 | 15-10-2025  | 07  | Manajemen State dengan GetX | [Modul 11](https://docs.google.com/document/d/1eLLPnXT8AEeXhv-8JAP6J6JhpmJczgZH8oQcfOW5WDc/edit?usp=sharing) | [Program](https://github.com/Renaldy2103/PrakMobileM11 "Program") |
-|  12 | 22-10-2025  | 08  | Ujian Tengah Semester | [UTS](https://docs.google.com/document/d/1WJGj1tsQveeRlwSzxNUehYYHOcjoVU5ZBsa_ZKlg7V8/edit?usp=sharing) | [Program](https://github.com/Renaldy2103/uts "Program") |
-|  13 | 29-10-2025  | 09  | Akses Lokasi dengan GPS di Flutter | [Modul 12](https://docs.google.com/document/d/1THQrN8ASRuC3TXD0nZYaRkYOr-d_V0MnTnweh4tjiW8/edit?usp=sharing) | [Program](https://github.com/Renaldy2103/PrakMobileM12 "Program") |
-|  14 | 12-11-2025  | 10  | Menampilkan Google Maps Lokasi dengan GPS di Flutter | ~ | [Program](https://github.com/Renaldy2103/PrakMobileM13 "Program") |
-|  15 | 19-11-2025  | 11  | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API | [Modul 14](https://docs.google.com/document/d/1E4IKUwcXZy3F408aZ2BdvAbILR9Qhbl2h1AnZapHnno/edit?usp=sharing) | [Program](https://github.com/Renaldy2103/PrakMobileM14 "Program") |
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raxel2103) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/moch-renaldy-syaputra-a19552288) 
+
+# 💻 Tech Stack:
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=renaldy2103&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=renaldy2103&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=renaldy2103&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://komarev.com/ghpvc/?username=renaldy2103&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
