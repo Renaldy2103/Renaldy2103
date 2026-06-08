@@ -1,6 +1,6 @@
 # 💫 About Me:
 Mahasiswa Teknik Informatika semester 6 dengan fokus riset pada Artificial Intelligence, Computer Vision, dan NLP. Memadukan kecerdasan buatan dengan pengembangan web modern.
-Cek My Portofolio for more information : https://portofolio-website-rho-peach.vercel.app/
+Cek My Portofolio for more information : https://portofolio-website-3i6gqz6pk-raxel-s-projects.vercel.app/
 
 
 ## 🌐 Socials:
